@@ -17,6 +17,8 @@ Exploratory Data Analysis
 
 [Visualization](Visualization)
 
+Conclusion
+
 ### Introduction
 ---
 This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types,
@@ -91,9 +93,13 @@ Answer
 ![Customer 7](https://github.com/user-attachments/assets/fc10f6cb-11a8-462b-9e43-955852cbb11e)
 ![Customer 8](https://github.com/user-attachments/assets/15204242-3d4b-4ac0-a5cc-a4ad14055ef1)
 
-
-     
+  
  Power BI Question 1
-o Build a Power BI dashboard that visualizes key customer segments,
-cancellations, and subscription trends. Include slicers for interactive analysis.
+   - Build a Power BI dashboard that visualizes key customer segments,cancellations, and subscription trends. Include slicers for interactive analysis.
+<img width="960" alt="CUSTOMER DATA" src="https://github.com/user-attachments/assets/08ead7c9-ab7b-4457-8c88-c7e578d71e20">
 
+### Conclusion
+---
+Our analysis of customer subscriptions revealed several important insights: 
+**Subscription Trends*: Monthly subscriptions have shown consistent growth, while annual subscriptions have seasonal fluctuations. 
+**Customer Retention*: The retention rate is highest among customers who choose premium plans. 
