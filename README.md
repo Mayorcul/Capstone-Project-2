@@ -68,3 +68,4 @@ Excel Question 1-3
 
 Answer
 
+![customerdata 1-3](https://github.com/user-attachments/assets/15daac7b-d615-49b9-83a2-0ed541c212cd)
